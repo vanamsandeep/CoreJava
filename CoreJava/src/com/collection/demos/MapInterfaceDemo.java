@@ -37,7 +37,7 @@ public class MapInterfaceDemo {
 			System.out.println(s.getKey() + " --->" + s.getValue());
 
 		}
-		System.out.println("Using ENhanced for loop");
+		System.out.println("Using Enhanced for loop");
 		for (Map.Entry<String, String> a : m.entrySet()) {
 
 			String key = a.getKey();
