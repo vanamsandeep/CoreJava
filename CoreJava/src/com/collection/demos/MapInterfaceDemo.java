@@ -47,7 +47,7 @@ public class MapInterfaceDemo {
 		}
 
 		System.out.println("Using Key set looping");
-		System.out.println("Key and Values are");
+		System.out.println("Key and Values are testing ");
 
 		for (String s : m.keySet()) {
 
