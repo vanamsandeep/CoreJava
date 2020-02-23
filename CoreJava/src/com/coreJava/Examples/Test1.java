@@ -21,8 +21,9 @@ public class Test1 {
 	public static void main(String[] args) {
 		
 		A a = new A();
-		System.out.println(" t value is "+a.t);
-
+		System.out.println(" This is Main class  t value is "+a.t);
+		System.out.println(" This is Main class  t value is "+a.t);
+		System.out.println(" This is Main class  t value is "+a.t);
 	}
 
 }

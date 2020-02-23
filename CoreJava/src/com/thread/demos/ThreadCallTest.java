@@ -19,7 +19,7 @@ class ThreadCall extends Thread{
 	
 	public void run(){
 		System.out.println("thread name is "+ Thread.currentThread());
-		System.out.println(" calling child thread ");
+		System.out.println(" Child Thread called ");
 	}
 }
 
